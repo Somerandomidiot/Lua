@@ -1,4 +1,4 @@
-while task.wait(15) do
+task.wait(15)
 
 for i= 1, 100 do
   
